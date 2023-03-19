@@ -1,0 +1,17 @@
+Requisitos funcionais sistema academico (Projeto PI)
+
+- Cadastrar até 30 alunos (matricula) - FEITO
+- Cadastrar notas de alunos - FEITO
+- Cadastrar faltas de alunos - FEITO 
+- Cadastrar turma do aluno - FEITO
+- Menu de ação - FEITO
+- Remover registro de aluno (deve apagar todos os dados do aluno em questão) - FEITO
+- Atualizar dados de aluno - FEITO
+- Listar alunos cadastrados - FEITO
+- Listar alunos aprovados (Com media maior ou igual a 7) - FEITO
+- Listar alunos reprovados por media - FEITO
+- Listar alunos reprovados por faltas - FEITO
+- Atualizar notas e faltas de aluno - FEITO
+
+- Revisar código para deixaro o mais limpo possível
+- Gravar vídeo explicitando a estrutura do código e demonstrar o programa em funcionamento
